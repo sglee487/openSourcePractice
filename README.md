@@ -1,2 +1,2 @@
-# openSourcePractice
-201502136 김가연
+﻿# openSourcePractice
+201701967 강서연
